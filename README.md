@@ -20,12 +20,12 @@ Let's look at Makefile to run a command that we need.
 
 ### Run OpenSearch
 
-Execute `make upOS` to turn on our Elasticsearch locally.
+Execute `make upOS` to turn on our OpenSearch locally.
 
 ### Running API Server
 
 Execute `make run` to run our API Server.
 
-### Stop Elasticsearch
+### Stop OpenSearch
 
-Execute `make downOS` to teardown running Elasticsearch.
+Execute `make downOS` to teardown running OpenSearch.
